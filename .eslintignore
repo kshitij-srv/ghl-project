@@ -1,0 +1,7 @@
+.vscode
+configs
+.build
+node_modules
+out
+public
+tests
